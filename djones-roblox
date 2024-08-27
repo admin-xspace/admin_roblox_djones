@@ -1,0 +1,17 @@
+git remote add origin https://github.com/admin-xspace/admin_roblox_djones.git
+git branch -M main
+git push -u origin mainhttps://github.com/admin-xspace/admin_roblox_djones.gitecho "# admin_roblox_djones" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/admin-xspace/admin_roblox_djones.git
+git push -u origin maingit remote add origin https://github.com/admin-xspace/admin_roblox.git
+git branch -M main
+git push -u origin mainREADME.mdhttps://github.com/admin-xspace/admin_roblox.gitecho "# admin_roblox" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/admin-xspace/admin_roblox.git
+git push -u origin mainKetasaja:improve-os.clock-documentation￼Enter
