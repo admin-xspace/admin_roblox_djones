@@ -1,0 +1,7 @@
+echo "# admin_roblox_djones" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/admin-xspace/admin_roblox_djones.git
+git push -u origin main# 
